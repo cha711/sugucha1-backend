@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "./dist/src",
+    "target": "es5",
+    "sourceMap": false,
+    "strict": true,
+    "removeComments": true,
+    "moduleResolution": "node"
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["./src/test/*"]
+}
